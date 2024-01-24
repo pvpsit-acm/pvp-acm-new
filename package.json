@@ -1,6 +1,6 @@
 {
 	"type": "module",
-	"name": "sveltekit-markdown-blog",
+	"name": "new-acm-web",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
