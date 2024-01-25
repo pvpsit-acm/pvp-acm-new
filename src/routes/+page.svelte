@@ -11,9 +11,9 @@
 </svelte:head>
 
 <section>
-	<div class="main">
+	<!-- <div class="main">
 		<ErrorMsg />
-	</div>
+	</div> -->
 	<div class="title">
 		<h3>Welcome to ACM Student Chapter - PVPSIT</h3>
 	</div>
@@ -43,7 +43,7 @@
 	}
 	.title {
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 		justify-content: center;
 		padding: 1%;
 	}

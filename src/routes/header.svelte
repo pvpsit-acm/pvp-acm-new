@@ -46,7 +46,7 @@
 	a {
 		color: inherit;
 		text-decoration: none;
-		padding: 20px;
+		padding: 10px;
 	}
 
 	@media (min-width: 768px) {
@@ -68,7 +68,7 @@
       content: '';
       display: block;
       width: 100%;
-      height: 5px; /* Adjust the thickness of the underline */
+      height: 3px; /* Adjust the thickness of the underline */
       background-color: #3498db; /* Underline color */
       position: absolute;
       bottom: 0;
