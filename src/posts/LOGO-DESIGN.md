@@ -6,6 +6,9 @@ categories:
     - logo
 published: true
 ---
+<br>
 
-## LOGO COMPETITION
+### LOGO DESIGN COMPETITION
+
+<br>
 A logo design competition is being conducted for the PVPSIDDHARTHA ACM Student Chapter at PVP Siddhartha Institute of Technology.

@@ -24,7 +24,7 @@
 			<li class="post">
 				<a href={post.slug} class="title" style="color:black">{post.title}</a>
 				<p class="date">{formatDate(post.date)}</p>
-				<p class="description">{post.description}</p>
+				{post.description}
 			</li>
 		</div>
 			
@@ -46,7 +46,7 @@
 	.container{
 		border-radius: 10px;
 		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-		height: 200px;
+		height: 250px;
 		width: 350px;
 		overflow: hidden;
 		padding: 2%;
@@ -73,5 +73,7 @@
 
 	.description {
 		margin-top: var(--size-3);
+		text-align: justify;
 	}
+
 </style>

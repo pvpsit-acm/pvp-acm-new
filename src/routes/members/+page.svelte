@@ -2,74 +2,74 @@
   import Card from "./card.svelte";
     const StuMembers = [
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "K Pavithra Sai",
+        title: "Student Chair",
+        linkedin: "https://www.linkedin.com/in/pavithra-sai-kadiyala/",
+        email: "20501A0571@pvpsit.ac.in",
+        imageUrl: "student_members/studentchair.jpg",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "G.Venkata Raju",
+        title: "Student Vice Chair",
+        linkedin: "https://www.linkedin.com/in/venkataraju-gogudesi-7051a1252/",
+        email: "20501A0553@pvpsit.ac.in",
+        imageUrl: "student_members/studentvicechair.jpg",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "K.Yaswant Sai",
+        title: "Secretary",
+        linkedin: "https://www.linkedin.com/in/yaswant-sai-kavuri/",
+        email: "20501A05J1@pvpsit.ac.in",
+        imageUrl: "student_members/secretary.jpg",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "Vamsi Saripudi",
+        title: "Web Master",
+        linkedin: "https://www.linkedin.com/in/vamsi-saripudi-a3051b1b6/",
+        email: "20501A05H9@pvpsit.ac.in",
+        imageUrl: "student_members/webmaster.jpg",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
+        name: "N.Teja",
+        title: "Treasurer",
+        linkedin: "https://www.linkedin.com/in/narayana-teja/",
         email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        imageUrl: "student_members/treasurer.jpg",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "Sahiti Lavu",
+        title: "Membership Chair",
+        linkedin: "https://www.linkedin.com/in/sahiti-lavu-7766a5214",
+        email: "20501a0599@pvpsit.ac.in",
+        imageUrl: "student_members/membershipchair.webp",
       }
     ];
     const FacMembers = [
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "Dr. M. V. Ramakrishna",
+        title: "Faculty Sponsor",
+        linkedin:"",
+        email: "mvrk@pvpsiddhartha.ac.in",
+        imageUrl: "faculty/faculty_sponsor.webp",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "https://www.linkedin.com/in/johndoe/",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "Dr. J. Rama Devi",
+        title: "Faculty Coordinator",
+        linkedin:"",
+        email: "ramadevi@pvpsiddhartha.ac.in",
+        imageUrl: "faculty/facultyco1.webp",
       },
       {
-        name: "John Doe",
-        title: "Software Engineer",
-        linkedin: "",
-        email: "john.doe@example.com",
-        imageUrl: "teja-2.jpg",
+        name: "Ms. T. Sri Lakshmi",
+        title: "Faculty Coordinator",
+        linkedin:"",
+        email: "tslakshmi@pvpsiddhartha.ac.in",
+        imageUrl: "faculty/facultyco2.webp",
       }
     ];
 </script>
 <div>
-    <h2>Studnet Members</h2>
+    <h2>Student Members</h2>
 </div>
 <div class="members">
 {#each StuMembers as member (member.name)}
