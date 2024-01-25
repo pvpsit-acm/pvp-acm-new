@@ -33,7 +33,7 @@
         name: "N.Teja",
         title: "Treasurer",
         linkedin: "https://www.linkedin.com/in/narayana-teja/",
-        email: "john.doe@example.com",
+        email: "20501A05D3@pvpsit.ac.in",
         imageUrl: "student_members/treasurer.jpg",
       },
       {
