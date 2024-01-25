@@ -10,10 +10,11 @@ categories:
 published: true
 ---
 
-## DATA ANALYTICS AND VISUALIZATION USING TABLEAU
+<h2 style="text-align:left;">DATA ANALYTICS AND VISUALIZATION USING TABLEAU</h2>
+<br>
 
-#### Speakers: Mr. Ashok Polapragada and Ms. Masarrat Yasmeen
-
+<h4 style="text-align:left;">Speakers: Mr. Ashok Polapragada and Ms. Masarrat Yasmeen</h4>
+<br>
 Mr. Ashok Polapragada is a Professor at the Department of Humanities and Social Sciences, Indian Institute of Technology, Kanpur. 
 
 Ms. Masarrat Yasmeen is a Delivery Manager in Data Analytics and Visualization at Yash Technologies, Hyderabad.

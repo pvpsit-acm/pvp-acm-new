@@ -9,11 +9,12 @@ categories:
 published: true
 ---
 
-## ESSENTIAL LIFE SKILLS FOR ENGINEERS
+<h2 style="text-align:left;">ESSENTIAL LIFE SKILLS FOR ENGINEERS</h2><br>
 
 #### Speaker: PROF. T. RAVICHANDRAN
 
 Professor T. Ravichandran is a Professor at the Department of Humanities and Social Sciences, Indian Institute of Technology, Kanpur.
+<br>
 
 #### Event Details
 

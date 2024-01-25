@@ -10,5 +10,8 @@ published: true
 
 ## Hands on Workshop on Android
 
-Resource Person : J. Ravi Krishna
+<br>
+
+<h4 style="text-align:left"> Resource Person: J. Ravi Krishna</h4>
+<br>
 Android, a Linux-based OS for mobile devices, was developed by the Open Handset Alliance, led by Google, and boasts a large community of developers creating apps in a customized version of Java, making it the best-selling smartphone platform worldwide as of Q4 2010.

@@ -6,31 +6,43 @@ categories:
     - codingContest
     - acm
     - code-o-fiesta
+image: events/16.webp
 published: true
 ---
 
 ## ACM CODE-O-FIESTA
 
-#### CODE-O-FIESTA - National Level Coding Competition
+<h2 style="text-align:left;">CODE-O-FIESTA - National Level Coding Competition</h2>
 
-Organized by: ACM Student Chapter
-
+<br>
 The Department of Computer Science and Engineering, in collaboration with the ACM Student Chapter, organized a national-level coding competition named "CODE-O-FIESTA" on December 18, 2021, starting at 10:00 AM. The event welcomed participation from B.Tech students across various states in India.
+<br><br>
 
 #### Competition Details
+
 
 - **Registered Students:** 340
 - **Attendees:** 315
 
+<br>
+
 #### Rounds:
+
+
 
 1. **Coding Competition on Hackerrank:**
    - 10 participants were selected for the second round based on their coding skills, validated through plagiarism checks.
 
+
+
 2. **Interview Round:**
    - A panel of five conducted interviews covering questions related to coding, technical aspects, basics, and HR.
 
+<br>
+
 #### Winners:
+
+<br>
 
 - **1st Place:** Ch. Yaswitha
   - Course: CSE
