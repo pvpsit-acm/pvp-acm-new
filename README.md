@@ -1,31 +1,38 @@
-# SvelteKit Markdown Blog
+# create-svelte
 
-Learn how to build a blazingly fast and extendable SvelteKit Markdown blog for poets.
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Post
+## Creating a project
 
-✍️ https://joyofcode.xyz/sveltekit-markdown-blog
+If you're seeing this, you've probably already done this step. Congrats!
 
-## Remote Development
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/sveltekit-markdown-blog)
-
-## Local Development
-
-### 🧑‍🤝‍🧑 Clone the project
-
-```sh
-https://github.com/joysofcode/sveltekit-markdown-blog.git
+# create a new project in my-app
+npm create svelte@latest my-app
 ```
 
-### 📦️ Install dependencies
+## Developing
 
-```sh
-pnpm i
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-### 💿️ Run the development server
+## Building
 
-```sh
-pnpm run dev
+To create a production version of your app:
+
+```bash
+npm run build
 ```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
