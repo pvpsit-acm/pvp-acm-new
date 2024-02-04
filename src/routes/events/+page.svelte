@@ -20,13 +20,15 @@
 	<h3>Events</h3>
 	<ul class="posts">
 		{#each data.posts as post}
+		<a href={post.slug}>
 		<div class="container" style="background-color: {getRandomColor()};">
-			<li class="post">
-				<a href={post.slug} class="title" style="color:black">{post.title}</a>
+			<li class="post" style={"padding:20px"}>
+				<div class="title" style="color:black">{post.title}</div>
 				<p class="date">{formatDate(post.date)}</p>
 				{post.description}
 			</li>
 		</div>
+	</a>
 			
 		{/each}
 	</ul>
@@ -52,7 +54,7 @@
 		padding: 2%;
 	}
 	.post {
-		max-inline-size: var(--size-content-3);
+		max-inline-size: var(--size-content-4);
 	}
 	p{
 		font-size: 15px;
