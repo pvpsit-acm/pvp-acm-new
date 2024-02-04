@@ -1,6 +1,6 @@
 ---
 title: PS WORKSHOP
-description: SOME WORKSHOP ON PS
+description: WORKSHOP ON PS
 date: 2011-09-29
 categories:
     - ps
