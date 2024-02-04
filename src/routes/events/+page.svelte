@@ -25,7 +25,9 @@
 			<li class="post" style={"padding:20px"}>
 				<div class="title" style="color:black">{post.title}</div>
 				<p class="date">{formatDate(post.date)}</p>
+				<p class="description">
 				{post.description}
+				</p>
 			</li>
 		</div>
 	</a>
@@ -44,6 +46,14 @@
 		justify-content:flex-start;
 		align-items: flex-start;
 		padding: 2%;
+	}
+	a{
+		text-decoration: none;
+		transition: transform 0.3s ease-in-out;
+	}
+	a:hover{
+		background-color: rgba(0,0,0,0.2);
+		transform: scale(1.05);
 	}
 	.container{
 		border-radius: 10px;
@@ -74,8 +84,7 @@
 	}
 
 	.description {
-		margin-top: var(--size-3);
-		text-align: justify;
+		color: var(--text-3);
 	}
 
 </style>
