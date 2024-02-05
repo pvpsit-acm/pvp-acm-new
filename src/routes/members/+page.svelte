@@ -16,11 +16,11 @@
         imageUrl: "student_members/studentvicechair.jpg",
       },
       {
-        name: "K.Yaswant Sai",
-        title: "Secretary",
-        linkedin: "https://www.linkedin.com/in/yaswant-sai-kavuri/",
-        email: "20501A05J1@pvpsit.ac.in",
-        imageUrl: "student_members/secretary.jpg",
+        name: "N.Teja",
+        title: "Treasurer",
+        linkedin: "https://www.linkedin.com/in/narayana-teja/",
+        email: "20501A05D3@pvpsit.ac.in",
+        imageUrl: "student_members/treasurer.jpg",
       },
       {
         name: "Vamsi Saripudi",
@@ -30,11 +30,11 @@
         imageUrl: "student_members/webmaster.jpg",
       },
       {
-        name: "N.Teja",
-        title: "Treasurer",
-        linkedin: "https://www.linkedin.com/in/narayana-teja/",
-        email: "20501A05D3@pvpsit.ac.in",
-        imageUrl: "student_members/treasurer.jpg",
+        name: "K.Yaswant Sai",
+        title: "Secretary",
+        linkedin: "https://www.linkedin.com/in/yaswant-sai-kavuri/",
+        email: "20501A05J1@pvpsit.ac.in",
+        imageUrl: "student_members/secretary.jpg",
       },
       {
         name: "Sahiti Lavu",
@@ -42,6 +42,41 @@
         linkedin: "https://www.linkedin.com/in/sahiti-lavu-7766a5214",
         email: "20501a0599@pvpsit.ac.in",
         imageUrl: "student_members/membershipchair.webp",
+      },
+      {
+        name: "Dasari Hitesh",
+        title: "Member",
+        linkedin: "https://www.linkedin.com/in/dasari-hitesh-33162426a/",
+        email: "20501a0566@pvpsit.ac.in",
+        imageUrl: "student_members/member1.jpg",
+      },
+      {
+        name: "VSN Himaja",
+        title: "Member",
+        linkedin: "https://www.linkedin.com/in/vemuri-sri-naga-himaja-b01a74215/",
+        email: "20501a05I3@pvpsit.ac.in",
+        imageUrl: "student_members/member2.jpg",
+      },
+      {
+        name: "Pragna Y",
+        title: "Member",
+        linkedin: "https://www.linkedin.com/in/pragna-yanduri-781193245/",
+        email: "21501A05J5@pvpsit.ac.in",
+        imageUrl: "student_members/member3.jpg",
+      },
+      {
+        name: "Somu Likitha",
+        title: "Member",
+        linkedin: "http://www.linkedin.com/in/somu-likitha-a1724a245",
+        email: "21501A05G5@pvpsit.ac.in",
+        imageUrl: "student_members/member4.jpg",
+      },
+      {
+        name: "Sravya Kodali",
+        title: "Member",
+        linkedin: "https://www.linkedin.com/in/sravya-kodali-60626422b",
+        email: "21501A0585@pvpsit.ac.in",
+        imageUrl: "student_members/member5.jpg",
       }
     ];
     const FacMembers = [
