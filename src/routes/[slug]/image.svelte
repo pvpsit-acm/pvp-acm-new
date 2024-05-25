@@ -51,6 +51,7 @@
     margin: 10px;
     border-radius: 5px;
     max-width: fit-content;
+    margin-left:2em;
   }
 
   img {

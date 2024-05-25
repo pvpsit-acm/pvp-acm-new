@@ -1,5 +1,9 @@
 <script>
     const images =[
+    { src: 'gallery/FSD4.jpg' },
+    { src: 'gallery/FSD3.jpg' },
+    { src: 'gallery/FSD2.jpg' },
+    { src: 'gallery/FSD1.jpg' },
     { src: 'gallery/ct3.jpg' },
     { src: 'gallery/ct2.jpg' },
     { src: 'gallery/ct1.jpg' },
