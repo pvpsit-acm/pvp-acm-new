@@ -1,6 +1,6 @@
 ---
 title:  Full Stack Web Development Guest Lecture
-description: Handson Workshop on Blockchain
+description: Online Guest Lecture
 date: 2024-01-29
 categories:
     - Full Stack Development 
