@@ -6,7 +6,7 @@
 
 <nav>
 	<div class="logo-title-container">
-		<img src="pvp-acm.png" alt="acm-pvp-logo" class="logo" height="15%" width="15%">
+		<img src="acm-pvp.png" alt="acm-pvp-logo" class="logo" height="15%" width="15%">
 		<a href="/" class="title">
 			<b>{config.title}</b>
 		</a>
