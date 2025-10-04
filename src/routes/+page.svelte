@@ -25,7 +25,7 @@
 	</div>
 	<Quote quote="An investment in knowledge pays the best interest." author="Benjamin Franklin" />
 	<div class="Images">
-		<Image src="batch-2023-24.jpg" title="Student Members Batch 2023-24" />
+		<Image src="batch-2024-2026.jpg" title="Student Members Batch 2024-2026" />
 	</div>
 </section>
 

@@ -1,5 +1,13 @@
 <script>
     const images =[
+    { src: 'gallery/cpds1.JPG' },
+    { src: 'gallery/cpds2.JPG' },
+    { src: 'gallery/cpds3.JPG' },
+    { src: 'gallery/cpds4.JPG' },
+    { src: 'gallery/cpds5.JPG' },
+    { src: 'gallery/cpds6.JPG' },
+    { src: 'gallery/cpds7.JPG' },
+    { src: 'gallery/cpds8.JPG' },
     { src: 'gallery/FSD4.jpg' },
     { src: 'gallery/FSD3.jpg' },
     { src: 'gallery/FSD2.jpg' },
